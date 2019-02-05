@@ -1,0 +1,90 @@
+[0130/204953.522:ERROR:settings.cc(263)] Settings version is not 1
+[0130/210022.775:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0130/210045.852:ERROR:settings.cc(324)] Settings version is not 1
+[0130/211647.312:ERROR:settings.cc(324)] Settings version is not 1
+[0130/213636.286:ERROR:settings.cc(324)] Settings version is not 1
+[0130/214330.212:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0130/214443.324:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0130/214520.567:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0130/215532.540:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0130/222206.941:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0130/222914.069:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0130/223003.384:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0130/223336.556:ERROR:settings.cc(263)] Settings version is not 1
+[0130/223435.750:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0130/223741.349:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0130/223853.022:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0130/223938.070:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0130/224017.775:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0130/224123.035:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0130/224211.281:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0130/224451.028:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0130/224554.135:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0130/225053.389:ERROR:settings.cc(263)] Settings version is not 1
+[0130/225234.502:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0130/225949.458:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0130/230239.081:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0130/230623.513:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0130/231427.550:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0130/232200.737:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0130/233152.400:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0130/233610.991:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0130/233738.024:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0130/233816.049:ERROR:settings.cc(263)] Settings version is not 1
+[0130/233821.986:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0130/233910.307:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0201/185111.670:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0201/191022.151:ERROR:settings.cc(263)] Settings version is not 1
+[0201/191028.214:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0201/191223.773:WARNING:chrome_main_delegate.cc(569)] final extension: .discordbot
+[0201/191226.093:ERROR:process_info.cc(349)] VirtualQueryEx: Odmowa dostêpu. (0x5)
+[0201/191226.099:ERROR:process_info.cc(570)] ReadMemoryInfo failed
+[0201/191226.104:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostêpu. (0x5)
+[0201/191226.104:ERROR:exception_snapshot_win.cc(87)] thread ID 8096 not found in process
+[0201/191226.104:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0201/191226.104:ERROR:scoped_process_suspend.cc(39)] NtResumeProcess: Podjêto próbê uzyskania dostêpu do procesu koñcz¹cego dzia³anie.  (0xc000010a)
+[0201/191357.261:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0203/215337.416:ERROR:settings.cc(263)] Settings version is not 1
+[0203/215718.418:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0203/222009.513:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0203/222159.916:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0204/151450.293:ERROR:settings.cc(263)] Settings version is not 1
+[0204/152646.477:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0204/152752.183:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0204/152853.240:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0204/154043.766:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0204/154107.545:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0204/154209.228:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0204/154251.779:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0204/154334.280:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0204/154432.522:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0204/154737.704:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0204/163452.474:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0204/202813.600:ERROR:settings.cc(263)] Settings version is not 1
+[0204/203751.774:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0204/203801.626:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0204/203920.549:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0204/204816.938:ERROR:settings.cc(263)] Settings version is not 1
+[0204/205538.044:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostêpu. (0x5)
+[0204/205538.044:ERROR:exception_snapshot_win.cc(87)] thread ID 11408 not found in process
+[0204/205538.044:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0204/205544.992:ERROR:process_reader_win.cc(242)] ReadMemory at 0xd20000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0204/205544.997:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Program Files (x86)\Steam\steamapps\common\Discord Bot Maker\Discord Bot Maker.exe
+[0204/205545.023:ERROR:process_reader_win.cc(242)] ReadMemory at 0x54eb000 of 86016 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0204/205545.023:ERROR:crash_report_exception_handler.cc(116)] WriteEverything failed
+[0204/205545.025:ERROR:scoped_process_suspend.cc(39)] NtResumeProcess: Podjêto próbê uzyskania dostêpu do procesu koñcz¹cego dzia³anie.  (0xc000010a)
+[0204/205549.856:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostêpu. (0x5)
+[0204/205549.867:ERROR:exception_snapshot_win.cc(87)] thread ID 636 not found in process
+[0204/205549.867:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0204/205554.528:ERROR:settings.cc(263)] Settings version is not 1
+[0204/210001.622:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostêpu. (0x5)
+[0204/210001.625:ERROR:exception_snapshot_win.cc(87)] thread ID 10644 not found in process
+[0204/210001.625:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0204/211017.979:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostêpu. (0x5)
+[0204/211017.980:ERROR:exception_snapshot_win.cc(87)] thread ID 9696 not found in process
+[0204/211017.980:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0204/211017.980:ERROR:scoped_process_suspend.cc(39)] NtResumeProcess: Podjêto próbê uzyskania dostêpu do procesu koñcz¹cego dzia³anie.  (0xc000010a)
+[0204/212623.185:ERROR:settings.cc(324)] Settings version is not 1
+[0204/215727.063:ERROR:settings.cc(263)] Settings version is not 1
+[0204/222905.433:ERROR:settings.cc(263)] Settings version is not 1
+[0205/203244.378:ERROR:settings.cc(263)] Settings version is not 1
